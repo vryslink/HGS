@@ -1,0 +1,97 @@
+C:\Users\Vaclav\Desktop\HGS\HGS\bin\Debug\HGS.exe.config
+C:\Users\Vaclav\Desktop\HGS\HGS\bin\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS\HGS\bin\Debug\HGS.pdb
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.csprojAssemblyReference.cache
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.Form1.resources
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.Properties.Resources.resources
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.csproj.GenerateResource.cache
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS\HGS\obj\Debug\HGS.pdb
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\bin\Debug\HGS.exe.config
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\bin\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\bin\Debug\HGS.pdb
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.csprojAssemblyReference.cache
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.Form1.resources
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.Properties.Resources.resources
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.csproj.GenerateResource.cache
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS - Copy\HGS\obj\Debug\HGS.pdb
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.csprojAssemblyReference.cache
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.Form1.resources
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.Properties.Resources.resources
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.csproj.GenerateResource.cache
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\obj\Debug\HGS.pdb
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\bin\Debug\HGS.exe.config
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\bin\Debug\HGS.exe
+C:\Users\Vaclav\Desktop\HGS\HGS - Copy\HGS\bin\Debug\HGS.pdb
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\bin\Debug\HGS.exe.config
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\bin\Debug\HGS.exe
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\bin\Debug\HGS.pdb
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.csprojAssemblyReference.cache
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.Form1.resources
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.Properties.Resources.resources
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.csproj.GenerateResource.cache
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.exe
+C:\Users\Vaclav\Dropbox\Programování\HGS - Copy\HGS\obj\Debug\HGS.pdb
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\HGS.exe.config
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\HGS.exe
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\HGS.pdb
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.csprojAssemblyReference.cache
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.Form1.resources
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.Properties.Resources.resources
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.csproj.GenerateResource.cache
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.exe
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\obj\Debug\HGS.pdb
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\ambulance.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\carCrash.wav
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\crash.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\down.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\finish.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\flagPass.wav
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\flags.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\HGS.exe
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\ARCADECLASSIC.TTF
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\high_score.txt
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\jump.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\jump.wav
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\jumpH.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\left.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\motorcycle.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\Rambulance.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\rcar.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\right.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\Rmotorcycle.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\road.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceD1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceD2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceL1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceL2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceR1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceR2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceU1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\roadHoraceU2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\Rrcar.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\Rtruck.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\Rycar.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\skiPickUp.wav
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\skis.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceD1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceD2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceL1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceL2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceR1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceR2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceU1.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\SroadHoraceU2.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\theme.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\tree.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\treeCrash.wav
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\truck.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\ycar.png
+C:\Users\Vaclav\Dropbox\Programování\Old\HGS\HGS\bin\Debug\bin\Debug\prstart.ttf
